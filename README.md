@@ -4,8 +4,8 @@
 
 <div>
   <a href= "https://github.com/thaynararibeiro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thaynararibeiro&show_icons=true&theme=dracula_all_comits=true&coumt_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thaynararibeiro&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=thaynararibeiro&show_icons=true&theme=dracula_all_comits=true&coumt_private=true"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=thaynararibeiro&layout=compact&langs_count=16&theme=dracula"/>
 </div>
     
 <div> 
