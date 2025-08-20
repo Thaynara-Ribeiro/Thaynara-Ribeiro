@@ -1,4 +1,4 @@
-## Oiii eu sou a Thaynara Ribeiro, estudante de Python!
+## Oiii eu sou a Thaynara Ribeiro, estudante de Analise e Desenvolvimento de Sistemas!
 
 > * Perfil voltado para atualizações do meu processo em Python
 
