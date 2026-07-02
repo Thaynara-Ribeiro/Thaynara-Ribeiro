@@ -1,7 +1,6 @@
 ## Oiii eu sou a Thaynara Ribeiro, estudante de Analise e Desenvolvimento de Sistemas!
 
-> * Perfil voltado para atualizações do meu processo em Python
-
+> *Apaixonada por desenvolvimento backend, atualmente estou focada em Python, HTML/CSS e Banco de Dados. O Perfil está voltado para atualizações da minha evolução através de exercícios, projetos acadêmicos e projetos pessoais. 
 <div>
   <a href= "https://github.com/thaynararibeiro">
 
